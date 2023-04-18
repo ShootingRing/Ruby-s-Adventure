@@ -44,3 +44,27 @@ The following packages were 已更新:
   com.unity.test-framework 从版本 1.1.29 到 1.1.31
   com.unity.timeline 从版本 1.6.2 到 1.6.4
   com.unity.visualscripting 从版本 1.7.2 到 1.7.8
+
+=== Tue Apr 18 22:36:43 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were 已更新:
+  com.unity.render-pipelines.universal 从版本 12.1.6 到 12.1.8
+
+=== Tue Apr 18 22:36:43 2023
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were 已添加:
+  com.unity.render-pipelines.universal@12.1.8
+
+=== Tue Apr 18 22:42:45 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were 已更新:
+  com.unity.render-pipelines.universal 从版本 12.1.6 到 12.1.8
